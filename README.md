@@ -21,7 +21,7 @@ A Windows 11 console application for managing virtual cameras and connecting the
 
 # 1. Clone repository
 
-git clone https://github.com/your-repo/CamLinker.git
+git clone https://github.com/NeuroGhostOutput/CamLinker.git
 ```
 # 2. Build solution
 ```bash
