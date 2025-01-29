@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CamLinker/1.0.0": {
+        "dependencies": {
+          "DirectShowLib": "1.0.0"
+        },
+        "runtime": {
+          "CamLinker.dll": {}
+        }
+      },
+      "DirectShowLib/1.0.0": {
+        "runtime": {
+          "lib/DirectShowLib.dll": {
+            "assemblyVersion": "2.1.0.1599",
+            "fileVersion": "2.1.0.1599"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CamLinker/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DirectShowLib/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-oWwOk9Lj8JIMWPsfx8bUbJ/uWhHlRKpMaU5oVf8Kl9SLMhmrnr0kXg0ebDv3oOmKxZ/D1yrmw+x7UGmgMqUxFA==",
+      "path": "directshowlib/1.0.0",
+      "hashPath": "directshowlib.1.0.0.nupkg.sha512"
+    }
+  }
+}

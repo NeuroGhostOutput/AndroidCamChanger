@@ -1,0 +1,17 @@
+D:\software\camlinker\Camlinker\bin\Debug\net6.0\CamLinker.exe
+D:\software\camlinker\Camlinker\bin\Debug\net6.0\CamLinker.deps.json
+D:\software\camlinker\Camlinker\bin\Debug\net6.0\CamLinker.runtimeconfig.json
+D:\software\camlinker\Camlinker\bin\Debug\net6.0\CamLinker.dll
+D:\software\camlinker\Camlinker\bin\Debug\net6.0\CamLinker.pdb
+D:\software\camlinker\Camlinker\bin\Debug\net6.0\DirectShowLib.dll
+D:\software\camlinker\Camlinker\obj\Debug\net6.0\CamLinker.csproj.AssemblyReference.cache
+D:\software\camlinker\Camlinker\obj\Debug\net6.0\CamLinker.GeneratedMSBuildEditorConfig.editorconfig
+D:\software\camlinker\Camlinker\obj\Debug\net6.0\CamLinker.AssemblyInfoInputs.cache
+D:\software\camlinker\Camlinker\obj\Debug\net6.0\CamLinker.AssemblyInfo.cs
+D:\software\camlinker\Camlinker\obj\Debug\net6.0\CamLinker.csproj.CoreCompileInputs.cache
+D:\software\camlinker\Camlinker\obj\Debug\net6.0\CamLinker.csproj.Up2Date
+D:\software\camlinker\Camlinker\obj\Debug\net6.0\CamLinker.dll
+D:\software\camlinker\Camlinker\obj\Debug\net6.0\refint\CamLinker.dll
+D:\software\camlinker\Camlinker\obj\Debug\net6.0\CamLinker.pdb
+D:\software\camlinker\Camlinker\obj\Debug\net6.0\CamLinker.genruntimeconfig.cache
+D:\software\camlinker\Camlinker\obj\Debug\net6.0\ref\CamLinker.dll
